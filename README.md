@@ -29,8 +29,3 @@
   <a href="mailto:murilorodrigues600@gmail.com">
     <img src="https://img.shields.io/badge/Email-murilorodrigues600@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murilorodriguesb&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorodriguesb&layout=compact&theme=tokyonight" />
-</p>
